@@ -1,5 +1,1 @@
-My RPM repository
-
-- ruby-enterprise.spec: Ruby Enterprise Edition http://www.rubyenterpriseedition.com/
--- rubylocal.spec
--- ruby1.8-dummy.spec
+My RPM repository work on CentOS.
